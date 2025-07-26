@@ -1,5 +1,7 @@
 # Smart Notes App
 
+![Smart Notes App Screenshot](assets/Smart Notes App.png)
+
 A minimal and interactive note-taking web application built with **React**, **Tailwind CSS**, and **Framer Motion**. Easily create, drag, view, edit, download, and delete colorful notes with a smooth user experience.
 
 ## Features
