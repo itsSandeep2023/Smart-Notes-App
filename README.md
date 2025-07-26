@@ -1,12 +1,38 @@
-# React + Vite
+# Smart Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and interactive note-taking web application built with **React**, **Tailwind CSS**, and **Framer Motion**. Easily create, drag, view, edit, download, and delete colorful notes with a smooth user experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create notes with title and description  
+- Edit and update existing notes  
+- Drag notes freely with smooth animations using Framer Motion  
+- Download notes as `.txt` files  
+- Delete unwanted notes  
+- Persistent storage using browser’s `localStorage`  
+- Notes have randomly assigned vibrant background colors powered by Tailwind CSS classes  
 
-## Expanding the ESLint configuration
+## Technology Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React  
+- Tailwind CSS  
+- Framer Motion  
+
+## Usage
+
+- Click the **Create** button to add a new note  
+- Fill in the title and description, then save  
+- Drag notes around the screen to organize  
+- Click the edit icon on a note to modify it  
+- Download notes or delete them using the buttons  
+- All notes are saved locally and will persist on page reload  
+
+## Sample Notes
+
+- **Shopping List**: Milk, Bread, Eggs, Coffee, Rice  
+- **Homework Tasks**: Complete math assignment, Write essay, Revise chapter 4  
+- **Ideas to Remember**: Learn React hooks, Watch design videos, Start blogging  
+
+## License
+
+MIT License © 2025 [Your Name]
