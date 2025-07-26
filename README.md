@@ -31,8 +31,4 @@ A minimal and interactive note-taking web application built with **React**, **Ta
 
 - **Shopping List**: Milk, Bread, Eggs, Coffee, Rice  
 - **Homework Tasks**: Complete math assignment, Write essay, Revise chapter 4  
-- **Ideas to Remember**: Learn React hooks, Watch design videos, Start blogging  
-
-## License
-
-MIT License © 2025 [Your Name]
+- **Ideas to Remember**: Learn React hooks, Watch design videos, Start blogging
